@@ -1,1 +1,1 @@
-echo "hello, Learning the Devops Now"
+echo "hello, Learning the Devops Now now"
